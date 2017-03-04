@@ -3,7 +3,7 @@ body {
 }
 
 div.carousel-caption {
-  text-shadow: 3px 3px 3px rgba(150, 150, 150, 1);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 1);
 }
 
 .navbar-brand {
