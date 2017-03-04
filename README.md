@@ -19,4 +19,4 @@ Desarrollado por tres investigadores/estudiantes del [Instituto Tecnológico del
 * __Alvaro Adrian Izquierdo Gomez__ (Docente/Investigador)
 * __Carlos Reinaldo Garcia Nastar__ (Estudiante/Investigador)
 * __Wilmer Herney Muñoz Gomez__ (Estudiante/Investigador)
-* __{{ site.data.authors.andrewrosvel.name }}__ (Estudiante/Investigador)
+* __Edilson Andres Rosero Velasquez__ (Estudiante/Investigador)
