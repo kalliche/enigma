@@ -1,13 +1,18 @@
 kalliche:
   name: Carlos Reinaldo Garcia Nastar
+  shortname: Carlos Garcia
 wito:
   name: Wilmer Herney Muñoz Gomez
+  shortname: Wilmer Muñoz
   github: https://github.com/Dev-Wito
 andrewrosvel:
   name: Edilson Andres Rosero Velasquez
+  shortname: Andres Rosero
   github: https://github.com/andrewrosvel
   social: https://twitter.com/andrewrosvel
-edgararciniegas:
+earciniegas:
   name: Edgar Arciniegas Erazo
-adrianizquierdo:
+  shortname: Edgar Arciniegas
+aizquierdo:
   name: Alvaro Adrian Izquierdo Gomez
+  shortname: Adrian Izquierdo
