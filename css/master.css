@@ -6,7 +6,8 @@ div.carouse-caption {
   text-shadow: 3px 3px 3px rgba(150, 150, 150, 1);
 }
 
-img.brand-image {
-  width: 80;
-  height: 80;
+.navbar-brand > img {
+  height: 80px;
+  width: auto;
+  padding: 15px;
 }
