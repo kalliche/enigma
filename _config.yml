@@ -1,7 +1,24 @@
+---
 title: enigma
-
 name: enigma
-
 markdown: kramdown
-
 baseurl: "/enigma"
+defaults:
+- scope:
+    path: docs
+    type: pages
+  values:
+    layout: docs
+    sectionid: docs
+- scope:
+    path: inv
+    type: pages
+  values:
+    layout: inv
+    sectionid: inv
+- scope:
+    path: about
+    type: pages
+  values:
+    layout: about
+    sectionid: about

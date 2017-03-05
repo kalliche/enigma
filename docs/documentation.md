@@ -1,5 +1,6 @@
 ---
 id: documentation
+sectionid: docs
 title: documentación
 permalink: docs/documentation.html
 ---
