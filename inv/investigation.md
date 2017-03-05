@@ -1,6 +1,5 @@
 ---
 id: investigation
-sectionid: inv
 title: investigación
 permalink: inv/investigation.html
 ---

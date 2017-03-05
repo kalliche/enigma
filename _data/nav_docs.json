@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Primera parte",
+    "items": [
+      {
+        "id": "documentation",
+        "title": "Documentación"
+      },
+      {
+        "id": "doc-parte-dos",
+        "title": "Documentación 2"
+      }
+    ]
+  },
+  {
+    "title": "Segunda parte",
+    "items": [
+      {
+        "id": "doc-parte-tres",
+        "title": "Documentación 3"
+      },
+      {
+        "id": "doc-parte-cuatro",
+        "title": "Documentación 3"
+      }
+    ]
+  }
+]

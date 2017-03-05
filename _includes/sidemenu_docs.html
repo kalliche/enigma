@@ -1,0 +1,14 @@
+<div class="sidebar-menu">
+  {% for menusection in site.data.nav_docs %}
+    <div class="sidebar-section">
+      <h3>{{ menusection.title }}</h3>
+      <ul>
+        {% for item in menusection.items %}
+          <li>
+            <a href="{{ site.baseurl }}/{{ page.sectionid }}/{{ item.id }}.html">{{ item.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>

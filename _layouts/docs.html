@@ -4,10 +4,19 @@ sectionid: docs
 ---
 
 <div class="row">
-  <div class="col-md-4">
-    SideBar
+  <div class="col-md-3">
+    {% include sidemenu_docs.html %}
   </div>
-  <div class="col-md-8">
+  <div class="col-md-9">
     {{ content }}
+
+    <div class="prevnext">
+      {% if page.prev %}
+        <a class="prev" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ page.prev }}">&larr; Anterior</a>
+      {% endif %}
+      {% if page.next %}
+        <a class="next" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ page.next }}">Siguiente &rarr;</a>
+      {% endif %}
+    </div>
   </div>
 </div>

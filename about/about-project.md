@@ -1,6 +1,5 @@
 ---
 id: about-project
-sectionid: about
 title: acerca del proyecto
 permalink: about/about-project.html
 ---
