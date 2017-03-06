@@ -1,8 +1,8 @@
 <div class="prevnext">
   {% if page.prev %}
-    <a class="prev" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ page.prev }}">&larr; Anterior</a>
+    <a class="go-prev" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ page.prev }}"><span class="glyphicon glyphicon-triangle-left" aria-hidden="true"></span> Anterior</a>
   {% endif %}
   {% if page.next %}
-    <a class="next" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ page.next }}">Siguiente &rarr;</a>
+    <a class="go-next" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ page.next }}">Siguiente <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span></a>
   {% endif %}
 </div>
