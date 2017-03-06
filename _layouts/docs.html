@@ -10,13 +10,6 @@ sectionid: docs
   <div class="col-md-9">
     {{ content }}
 
-    <div class="prevnext">
-      {% if page.prev %}
-        <a class="prev" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ page.prev }}">&larr; Anterior</a>
-      {% endif %}
-      {% if page.next %}
-        <a class="next" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ page.next }}">Siguiente &rarr;</a>
-      {% endif %}
-    </div>
+    {% include prev_next_btns.html %}
   </div>
 </div>
