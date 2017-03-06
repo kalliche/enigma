@@ -1,6 +1,6 @@
 ---
 id: investigation
-title: investigación
+title: Investigación
 permalink: inv/investigation.html
 ---
 # Investigación

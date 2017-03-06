@@ -1,7 +1,7 @@
 ---
 id: about-project
-title: acerca del proyecto
+title: Acerca de...
 permalink: about/about-project.html
 ---
-# Acerca de proyecto
+# Acerca del proyecto
 Esta es una prueba de Acerca de...

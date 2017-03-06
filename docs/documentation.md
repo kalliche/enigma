@@ -1,6 +1,6 @@
 ---
 id: documentation
-title: documentación
+title: Documentación
 permalink: docs/documentation.html
 next: doc-parte-dos.html
 ---

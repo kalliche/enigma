@@ -4,27 +4,33 @@ html {
   min-height: 100%;
 }
 
+
 body {
   padding-top: 70px;
   margin-bottom: 180px;
 }
 
+
 .carousel-caption {
   text-shadow: 4px 4px 8px rgba(0, 0, 0, 1);
 }
+
 
 .navbar-inverse {
   background-color: #2d2d2d;
 }
 
+
 .navbar-fixed-top {
   border-width: 0;
 }
+
 
 .navbar-brand {
   padding: 0;
   margin-right: 10px;
 }
+
 
 .navbar-brand img {
   height: 50px;
@@ -33,31 +39,44 @@ body {
   margin-right: 10px;
 }
 
+.navbar-nav li {
+  width: 80px;
+  text-align: center;
+}
+
 .navbar-nav li.active {
+  border-top: 3px solid #ea7362;
   border-bottom: 4px solid #ea7362;
 }
 
+
 .navbar-nav li:hover {
   background: #080808;
+  border-top: 3px solid #ea7362;
   border-bottom: 4px solid #ea7362;
 }
+
 
 .prevnext {
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
+
 .go-prev {
   float: left;
 }
+
 
 .go-next {
   float: right;
 }
 
+
 .without-style-list {
   list-style-type: none;
 }
+
 
 footer {
   position: absolute;
@@ -73,14 +92,17 @@ footer {
   padding-bottom: 2em;
 }
 
+
 footer {
   color: white;
 }
+
 
 footer section {
   color: rgba(255, 255, 255, 0.5);
   text-align: center;
 }
+
 
 .footer-img {
   height: 80px;
@@ -88,9 +110,11 @@ footer section {
   margin-right: 15px;
 }
 
+
 .footer-title {
   color: white;
 }
+
 
 a.footer-link:link, a.footer-link:visited {
   color: white;
@@ -100,6 +124,7 @@ a.footer-link:link:active, a.footer-link:visited:active, a.footer-link:hover {
   color: #ea7362;
 }
 
+
 a.copyright:link, a.copyright:visited {
   color: rgba(255, 255, 255, 0.5);
   text-decoration: none;
@@ -108,20 +133,54 @@ a.copyright:link:active, a.copyright:visited:active, a.copyright:hover {
   color: #ea7362;
 }
 
+
 a.sidemenu-item:link, a.sidemenu-item:visited {
   color: #484848;
   text-decoration: none;
 }
-a.sidemenu-item.active:link, a.sidemenu-item.active:visited {
-  color: #b74242;
-}
 a.sidemenu-item:link:active, a.sidemenu-item:visited:active, a.sidemenu-item:hover {
   color: #b74242;
 }
+a.sidemenu-item.active:link, a.sidemenu-item.active:visited {
+  color: #b74242;
+}
+
 
 .prevnext a:link, .prevnext a:visited {
   color: #b74242;
 }
 .prevnext a:link:active, .prevnext a:visited:active, .prevnext a:hover {
   color: #b74242;
+}
+
+
+.slide-box-shadow {
+  padding-left: 20px;
+  padding-right: 20px;
+	border-radius : 0px 0px 0px 0px ;
+	border-width : 0px 0px 0px 0px ;
+	border-style : solid solid solid solid;
+	border-color : rgba(179,102,179,1) rgba(179,102,179,1) rgba(179,102,179,1) rgba(179,102,179,1) ;
+	-webkit-box-shadow : 0px 0px 80px 100px rgba(50,50,50,0.6) inset;
+	    -moz-box-shadow : 0px 0px 80px 100px rgba(50,50,50,0.6) inset;
+	      -ms-box-shadow : 0px 0px 80px 100px rgba(50,50,50,0.6) inset;
+	         -o-box-shadow : 0px 0px 80px 100px rgba(50,50,50,0.6) inset;
+	              box-shadow : 0px 0px 80px 100px rgba(50,50,50,0.6) inset;
+}
+
+
+.btn-primary.btn-slide {
+  border: 2px solid;
+  background-color: #b74242;
+  border-color: #5c2626;
+}
+.btn-primary.btn-slide:hover {
+  background-color: #ab3f3f;
+}
+
+.carousel-indicators li {
+  border: 1px solid #ffd6b6;
+}
+.carousel-indicators .active {
+  background-color: #ea7362;
 }
