@@ -169,12 +169,13 @@ a.sidemenu-item.active:link, a.sidemenu-item.active:visited {
 }
 
 
-.btn-primary.btn-slide {
+.btn-primary.btn-primary-eng {
   border: 2px solid;
+  border-radius: 0px;
   background-color: #b74242;
   border-color: #5c2626;
 }
-.btn-primary.btn-slide:hover {
+.btn-primary.btn-primary-eng:hover {
   background-color: #ab3f3f;
 }
 
