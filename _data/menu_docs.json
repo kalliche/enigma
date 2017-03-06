@@ -1,6 +1,6 @@
 [
   {
-    "title": "Primera parte",
+    "title": "PRIMERA PARTE",
     "items": [
       {
         "id": "documentation",
@@ -8,12 +8,22 @@
       },
       {
         "id": "doc-parte-dos",
-        "title": "Documentación 2"
+        "title": "Documentación 2",
+        "subitems": [
+          {
+            "id": "subitem-uno",
+            "title": "Subitem uno"
+          },
+          {
+            "id": "subitem-dos",
+            "title": "Subitem dos"
+          }
+        ]
       }
     ]
   },
   {
-    "title": "Segunda parte",
+    "title": "SEGUNDA PARTE",
     "items": [
       {
         "id": "doc-parte-tres",

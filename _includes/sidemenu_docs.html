@@ -1,11 +1,20 @@
 <div class="sidebar-menu">
-  {% for menusection in site.data.nav_docs %}
-    <div class="sidebar-section">
-      <h3>{{ menusection.title }}</h3>
+  {% for menusection in site.data.menu_docs %}
+    <div class="sidebar-menu-section">
+      <h4 class="menu-section-title">{{ menusection.title }}</h4>
       <ul>
         {% for item in menusection.items %}
           <li>
             <a href="{{ site.baseurl }}/{{ page.sectionid }}/{{ item.id }}.html">{{ item.title }}</a>
+            {% if item.subitems %}
+              <ul>
+                {% for subitem in item.subitems %}
+                  <li>
+                    <a href="{{ site.baseurl }}/{{ page.sectionid }}/{{ subitem.id }}.html">{{ subitem.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
           </li>
         {% endfor %}
       </ul>
