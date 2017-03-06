@@ -22,3 +22,8 @@ defaults:
   values:
     layout: about
     sectionid: about
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
