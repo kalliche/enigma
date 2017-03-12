@@ -90,6 +90,7 @@ body {
     li {
       width: 80px;
       text-align: center;
+      border-top: 3px solid $fondoNegro;
 
       &.active, &:hover {
         background: $fondoMasNegro;
