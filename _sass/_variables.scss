@@ -1,3 +1,4 @@
+/* enigma colors */
 $engMasClaro: #ffd6b6;
 $engClaro: #ea7362;
 $engOscuro: #b74242;
@@ -9,12 +10,21 @@ $fondoMasNegro: #080808;
 $altColor1: #484848;
 $altColor2: #b74242;
 
+
+/* enigma buttons */
 $btnPrimaryBorder: $engMasOscuro;
 $btnPrimaryBackground: $altColor2;
 $btnPrimaryBackgroundHover: #993838;
 
+
+/* enigma structure*/
+$body_padding-top: 70px;
+$body_margin-bottom: 200px;
+
+
+/* begin - carousel */
+$carousel_height: 550px;
+$carousel_margin-bottom: 50px;
+
 $slideBS_color: rgba(50,50,50,0.6);
 $slideBS_bordercolor: black;
-
-$body_padding-top: 70px;
-$body_margin-bottom: 180px;
