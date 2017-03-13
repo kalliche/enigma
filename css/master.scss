@@ -78,10 +78,11 @@ body {
     margin-right: 10px;
 
     img {
-      height: 50px;
+      height: 56px;
       width: auto;
       padding: 0;
       margin-right: 10px;
+      margin-left: 15px;
     }
   }
 
@@ -96,6 +97,7 @@ body {
         background: $fondoMasNegro;
         border-top: 3px solid $engClaro;
         border-bottom: 4px solid $engClaro;
+        transition: all 0.3s ease-in-out 0s;
       }
     }
   }
