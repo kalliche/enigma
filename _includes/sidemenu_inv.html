@@ -1,0 +1,23 @@
+<div class="sidebar-menu">
+  {% for menusection in site.data.menu_inv %}
+    <div class="sidebar-menu-section">
+      <h5 class="menu-section-title">{{ menusection.title }}</h5>
+      <ul class="without-styles-list">
+        {% for item in menusection.items %}
+          <li>
+            <a class="sidemenu-item{% if page.id == item.id %}{{ ' active' }}{% endif %}" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ item.id }}.html">{{ item.title }}</a>
+            {% if item.subitems %}
+              <ul class="without-styles-list">
+                {% for subitem in item.subitems %}
+                  <li>
+                    <a class="sidemenu-item{% if page.id == subitem.id %}{{ ' active' }}{% endif %}" href="{{ site.baseurl }}/{{ page.sectionid }}/{{ subitem.id }}.html">{{ subitem.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>

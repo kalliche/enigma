@@ -1,0 +1,38 @@
+[
+  {
+    "title": "PRIMERA PARTE",
+    "items": [
+      {
+        "id": "documentos",
+        "title": "Documentos desde el menu"
+      },
+      {
+        "id": "doc-parte-dos",
+        "title": "Documentación 2",
+        "subitems": [
+          {
+            "id": "subitem-uno",
+            "title": "Subitem uno"
+          },
+          {
+            "id": "subitem-dos",
+            "title": "Subitem dos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NOTICIAS RELACIONADAS",
+    "items": [
+      {
+        "id": "openssl-corregira-fallos-graves",
+        "title": "OpenSSL corregirá fallos graves"
+      },
+      {
+        "id": "doc-parte-cuatro",
+        "title": "Documentación 4"
+      }
+    ]
+  }
+]
