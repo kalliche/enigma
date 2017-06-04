@@ -1,19 +1,21 @@
 ---
 ---
 
-.md-img {
+.menu-section-tittle {
+  font-weight: bolder;
+}
 
-  &.md-left {
-    float: left;
-  }
+.md-left {
+  float: left;
+}
 
-  &.md-right {
-    float: right;
-  }
+.md-right {
+  float: right;
 }
 
 .md-div-center {
   text-align: center;
+  margin: 10px 0 10px 0;
 }
 
 .md-itp-pic {
