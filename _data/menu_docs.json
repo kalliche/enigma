@@ -1,24 +1,18 @@
 [
   {
-    "title": "PRIMERA PARTE",
+    "title": "IMPLEMENTACIÓN",
     "items": [
       {
-        "id": "documentation",
-        "title": "Documentación"
+        "id": "introduccion",
+        "title": "Introducción"
       },
       {
-        "id": "doc-parte-dos",
-        "title": "Documentación 2",
-        "subitems": [
-          {
-            "id": "subitem-uno",
-            "title": "Subitem uno"
-          },
-          {
-            "id": "subitem-dos",
-            "title": "Subitem dos"
-          }
-        ]
+        "id": "instalacion-backend",
+        "title": "Instalación en el backend"
+      },
+      {
+        "id": "instalacion-frontend",
+        "title": "Instalación en el frontend"
       }
     ]
   },

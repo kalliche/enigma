@@ -16,5 +16,5 @@ Desarrollado por tres *investigadores/estudiantes* del [Instituto Tecnológico d
 * __Wilmer Herney Muñoz Gomez__ (Estudiante/Investigador)
 * __Edilson Andres Rosero Velasquez__ (Estudiante/Investigador)
 
-<img alt="logo itp" src="{{ site.baseurl }}/img/itp-logo.png" class="md-img md-left md-itp-pic">
-<img alt="itp picture" src="{{ site.baseurl }}/img/itp-pic.png" class="md-img md-right md-itp-pic">
+<img alt="logo itp" src="{{ site.baseurl }}/img/itp-logo.png" class="md-left md-itp-pic">
+<img alt="itp picture" src="{{ site.baseurl }}/img/itp-pic.png" class="md-right md-itp-pic">
