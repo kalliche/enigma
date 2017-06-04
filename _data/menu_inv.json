@@ -1,10 +1,14 @@
 [
   {
-    "title": "PRIMERA PARTE",
+    "title": "FUENTES DE INVESTIGATIVAS",
     "items": [
       {
-        "id": "documentos",
-        "title": "Documentos desde el menu"
+        "id": "que-es-la-encriptacion",
+        "title": "¿Qué es la encriptación?"
+      },
+      {
+        "id": "criptologia-de-la-a-z",
+        "title": "Criptografía de la A-Z"
       },
       {
         "id": "doc-parte-dos",
@@ -29,10 +33,6 @@
         "id": "openssl-corregira-fallos-graves",
         "title": "OpenSSL corregirá fallos graves"
       },
-      {
-        "id": "doc-parte-cuatro",
-        "title": "Proxima noticia corregida"
-      }
     ]
   }
 ]
