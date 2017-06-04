@@ -1,6 +1,6 @@
 ---
 id: introduccion
-title: Documentación
+title: Introducción
 permalink: docs/introduccion.html
 next: instalacion-backend.html
 ---

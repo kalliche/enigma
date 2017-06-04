@@ -4,9 +4,9 @@ Algoritmo bidireccional de encriptación en arquitectura cliente-servidor.
 ## Acerca de este repositorio
 Este repositorio contiene la **documentación e investigación** del proyecto enigma.
 
-* [Sitio oficial del proyecto](https://andrewrosvel.github.io/enigma/ "Proyecto Enigma")
-* [Ir a la documentación](https://andrewrosvel.github.io/enigma/docs/documentation.html "Documentación")
-* [Ir a la investigación](https://andrewrosvel.github.io/enigma/inv/investigation.html "Investigación")
+* <a href="https://andrewrosvel.github.io/enigma/" title="Proyecto Enigma" target="_blank">Sitio oficial del proyecto</a>
+* <a href="https://andrewrosvel.github.io/enigma/docs/introduccion.html" title="Documentación" target="_blank">Ir a la documentación</a>
+* <a href="https://andrewrosvel.github.io/enigma/inv/investigation.html" title="Investigación" target="_blank">Ir a la investigación</a>
 
 ## Acerca del proyecto
 Este proyecto es el resultado de una investigación realizada con el fin de desarrollar un algoritmo de encriptación bidireccional en arquitectura cliente-servidor para sitios web.

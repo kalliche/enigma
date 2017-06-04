@@ -17,11 +17,11 @@
     ]
   },
   {
-    "title": "SEGUNDA PARTE",
+    "title": "USO",
     "items": [
       {
-        "id": "doc-parte-tres",
-        "title": "Documentación 3"
+        "id": "uso",
+        "title": "Encriptando"
       },
       {
         "id": "doc-parte-cuatro",
