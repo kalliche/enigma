@@ -3,7 +3,6 @@ title: Enigma
 name: enigma
 upperName: ENIGMA
 markdown: kramdown
-baseurl: "/enigma"
 defaults:
 - scope:
     path: docs
