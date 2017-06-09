@@ -27,3 +27,5 @@ Si tenemos una página web y nos preocupamos de la seguridad, antes que OpenSSL 
 Estaremos pendientes del lanzamiento del nuevo **OpenSSL 1.1.0c** y os informaremos de su disponibilidad tan pronto como esté disponible.
 
 **¿Crees que OpenSSL conseguirá volver a ser una librería tan segura como debería ser?**
+
+<a href="https://goo.gl/ec2v4Z" target="_blank">*Fuente investigativas*</a>

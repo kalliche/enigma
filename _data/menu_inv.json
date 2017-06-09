@@ -11,6 +11,22 @@
         "title": "Criptografía de la A-Z"
       },
       {
+        "id": "seguridad-y-encriptacion",
+        "title": "Seguridad y Encriptación"
+      },
+      {
+        "id": "ssl-128-bits",
+        "title": "SSL 128 bits"
+      },
+      {
+        "id": "lifetimes-of-cryptographic",
+        "title": "Lifetimes of cryptographic"
+      },
+      {
+        "id": "ataques-al-protocolo-ssl",
+        "title": "Ataques al protocolo SSL"
+      },
+      {
         "id": "doc-parte-dos",
         "title": "Documentación 2",
         "subitems": [
@@ -32,6 +48,10 @@
       {
         "id": "openssl-corregira-fallos-graves",
         "title": "OpenSSL corregirá fallos graves"
+      },
+      {
+        "id": "google-hackea",
+        "title": "Google 'hackea'"
       },
     ]
   }
