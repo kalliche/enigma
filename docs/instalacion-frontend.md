@@ -9,7 +9,7 @@ next: uso.html
 Continuando con el ejemplo, la instalación de enigma en el frontend es bastante simple.
 Sólo necesitas copiar el archivo *enigma.js* en tu proyecto e importarlo en el frontend.
 
-IMPORTANTE: Enigma en el frontend require de **jQuery**, en su **versión mínima recomendada 1.12.4** o superior.
+**IMPORTANTE:** Enigma en el frontend require de **jQuery**, en su **versión mínima recomendada 1.12.4** o superior.
 
 Para nuestro ejemplo el frontend será un archivo *index.html* en el cual se importará el archivo javascript de enigma.<br>
 Por lo que la estructura del proyecto ahora será así:
