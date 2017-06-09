@@ -70,6 +70,4 @@ El generador de números aleatorios puede ser fácilmente roto y puede volverse 
 
 En este artículo se describen los protocolos de software usados en varias aplicaciones. Esos protocolos están construidos sobre algoritmos criptográficos de bajo nivel, como se describio en el articulo de algoritmos.  <a href="https://goo.gl/sUt3da" target="_blank">(Leer mas)</a>
 
-
-
-<a href="https://goo.gl/10YNcM" target="_blank">Referencias</a>
+<a href="https://goo.gl/10YNcM" target="_blank">*Fuente investigativas*</a>

@@ -45,3 +45,5 @@ Del mismo modo, las últimas versiones de los navegadores de Internet ya usan si
 La **tecnología GPG** es otra de las más utilizadas y su empleo es totalmente gratuito. Un ejemplo es la aplicación denominada “GnuPG”.
 
 Otros servicios que ofrecen cuentas de correos electrónicos tales como Gmail o Hotmail necesitan una serie de aplicaciones para poder encriptar los mensajes, por lo que es necesario descargar esos complementos, disponibles de forma gratuita en la red, que harán posible que un correo electrónico -por ejemplo- se convierta en un canal de comunicación seguro y exclusivo.
+
+<a href="https://goo.gl/hpqynX" target="_blank">*Fuente investigativas*</a>
