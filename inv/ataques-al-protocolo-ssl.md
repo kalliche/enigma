@@ -3,7 +3,13 @@ id: ataques-al-protocolo-ssl
 title: Ataques al protocolo SSL
 permalink: inv/ataques-al-protocolo-ssl.html
 ---
-# Ataques al protocolo SSL
+# Ataques al protocolo SSL<div class="md-div-center">
+
+<div class="md-div-center">
+  <a href="https://youtu.be/pSVNnShpCOM" target="_blank" title="Vídeo YouTube">
+    <img alt="Vídeo YouTube" src="https://img.youtube.com/vi/pSVNnShpCOM/0.jpg">
+  </a>
+</div>
 
 ## Seguridad del protocolo SSL (Secure Sockets Layer)
 
@@ -79,4 +85,4 @@ Septiembre 2011 (ekoparty Conference). **Chosen - plaintext attack against TLS v
 4. Configurar los navegadores web para que hagan comprobaciones OCSP por defecto.
 5. Si la conexión OCSP falla, el certificado cifrar por defecto no será dado por bueno.
 
-<a href="https://goo.gl/D4cp0i" target="_blank">*Fuente investigativas*</a>
+<a href="https://goo.gl/D4cp0i" target="_blank">*Fuentes*</a>

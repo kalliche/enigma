@@ -37,4 +37,4 @@ Por lo tanto, los **Certificados SSL de 128 bits** son recomendables para las Or
 
 Finalmente, Los **Certificados SSL de 128 bits** cuentan con todas las ventajas de los Certificados de Seguridad emitidos por Symantec™, proveedor líder de Certificados a nivel internacional. Es posible conocer sus adaptaciones a las expectativas y necesidades particulares de seguridad de las Organizaciones y tramitarlos en certsuperior.com.
 
-<a href="https://goo.gl/ZYJF0y" target="_blank">*Fuente investigativas*</a>
+<a href="https://goo.gl/ZYJF0y" target="_blank">*Fuentes*</a>

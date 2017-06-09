@@ -27,4 +27,4 @@ The Hash Function Lounge has an excellent list of references for most of the dat
 <img alt="imagen" src="{{ site.baseurl }}/img/tabla1.png" class="md-img md-center">
 </div>
 
-<a href="http://valerieaurora.org/hash.html" target="_blank">*Fuente investigativas*</a>
+<a href="http://valerieaurora.org/hash.html" target="_blank">*Fuentes*</a>

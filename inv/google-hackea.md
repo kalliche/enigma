@@ -20,4 +20,4 @@ Google advierte que el resultado del experimento de Stevens demuestra que varias
 
 El SHA-1, que llegó a ser utilizado en los años 90, sirve para encriptar documentos electrónicos, transacciones bancarias, correos electrónicos y sus archivos adjuntos.
 
-<a href="https://goo.gl/bUHHoQ" target="_blank">*Fuente investigativas*</a>
+<a href="https://goo.gl/bUHHoQ" target="_blank">*Fuentes*</a>

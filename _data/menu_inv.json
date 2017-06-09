@@ -1,6 +1,6 @@
 [
   {
-    "title": "FUENTES DE INVESTIGATIVAS",
+    "title": "FUENTES INVESTIGATIVAS",
     "items": [
       {
         "id": "que-es-la-encriptacion",
@@ -26,20 +26,6 @@
         "id": "ataques-al-protocolo-ssl",
         "title": "Ataques al protocolo SSL"
       },
-      {
-        "id": "doc-parte-dos",
-        "title": "Documentación 2",
-        "subitems": [
-          {
-            "id": "subitem-uno",
-            "title": "Subitem uno"
-          },
-          {
-            "id": "subitem-dos",
-            "title": "Subitem dos"
-          }
-        ]
-      }
     ]
   },
   {

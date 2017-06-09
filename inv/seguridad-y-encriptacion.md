@@ -64,4 +64,4 @@ Lo anterior es una de la razones por las que U.S.A cuida (cuidaba!) con tanto re
 
 Públicamente se conoce que en los servidores más poderosos del mercado es posible descubrir una "llave privada" en cuestión de días de procesamiento. Esto obviamente detiene aquellas personas ("hackers") con servidores "comunes" y en este caso hasta oficinas de seguridad gubernamentales en "decriptar" información con este tipo de encriptación
 
-<a href="https://goo.gl/E98eZP" target="_blank">*Fuente investigativas*</a>
+<a href="https://goo.gl/E98eZP" target="_blank">*Fuentes*</a>
