@@ -3,7 +3,7 @@ id: ataques-al-protocolo-ssl
 title: Ataques al protocolo SSL
 permalink: inv/ataques-al-protocolo-ssl.html
 ---
-# Ataques al protocolo SSL<div class="md-div-center">
+# Ataques al protocolo SSL
 
 <div class="md-div-center">
   <a href="https://youtu.be/pSVNnShpCOM" target="_blank" title="Vídeo YouTube">
@@ -52,7 +52,7 @@ En un funcionamiento normal un servidor OCSP podría enviar una respuesta Try La
 1. Certificado digital creado por el atacante. El navegador web alerta que el certificado no es reconocido. El ataque solo tiene lugar si el usuario lo acepta.
 
 <div class="md-div-center">
-<img alt="imagen" src="{{ site.baseurl }}/img/falla1.png" class="md-img md-center">
+<img alt="imagen" src="{{ site.baseurl }}/img/falla1.png" class="md-img md-center" width="700px">
 </div>
 
 2. Herramienta SslStrip (Moxie Marlinspike, 2009) automatiza un ataque de hombre en el medio al protocolo SSL. Sustituye todos los enlaces https por http, con la intención que la comunicación entre el cliente y el atacante sea por http y la comunicación entre atacante y servidor por https.

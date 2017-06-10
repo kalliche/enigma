@@ -28,4 +28,4 @@ Estaremos pendientes del lanzamiento del nuevo **OpenSSL 1.1.0c** y os informare
 
 **¿Crees que OpenSSL conseguirá volver a ser una librería tan segura como debería ser?**
 
-<a href="https://goo.gl/ec2v4Z" target="_blank">*Fuentes*</a>
+<a href="https://goo.gl/ec2v4Z" target="_blank">*Fuente*</a>
